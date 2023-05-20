@@ -28,7 +28,7 @@ from docx import Document
 
 # Create your views here.
 def index(request):
-    openai.api_key = "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"
+    openai.api_key = "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"
     context = {}
 
     if request.method == 'POST':

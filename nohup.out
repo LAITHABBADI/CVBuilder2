@@ -1431,3 +1431,36 @@ Not Found: /favicon.ico
 [20/May/2023 17:28:33] You're accessing the development server over HTTPS, but it only supports HTTP.
 [20/May/2023 17:28:34] code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00#\x00\x00\x00\x12\x00\x00\x00\x17\x00\x00\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00')
 [20/May/2023 17:28:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[20/May/2023 21:13:26] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¹cH\x95©u±âYdËé´÷t\x8dð\x08½µì^Üú\x7fC¬¥')
+[20/May/2023 21:13:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[20/May/2023 21:13:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03)UYº\x99Ù\x8aû]xt\x985º©+e9ÊÌ7\x84A0\x80\x0eogôGYÿ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[20/May/2023 21:13:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[20/May/2023 21:13:26] "GET / HTTP/1.1" 200 18514
+[20/May/2023 21:13:27] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Ë:6m\x8e\x06&7È\x99e\x06ø["\\++4õÊ`\x9a,)©ë?\x1a½\x90"\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[20/May/2023 21:13:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /api/islogged
+[20/May/2023 21:13:27] "GET /api/islogged HTTP/1.1" 404 2641
+[20/May/2023 22:29:30] code 400, message Bad request syntax ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Ê¤:Ê·')
+[20/May/2023 22:29:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+[21/May/2023 03:28:28,712] - Broken pipe from ('162.142.125.216', 51210)
+[21/May/2023 03:28:29] "GET / HTTP/1.1" 200 18514
+[21/May/2023 03:28:29,941] - Broken pipe from ('162.142.125.216', 44998)
+[21/May/2023 03:28:30] "GET / HTTP/1.1" 200 18514
+[21/May/2023 03:28:30] code 505, message Invalid HTTP version (2.0)
+[21/May/2023 03:28:30] "PRI * HTTP/2.0" 505 -
+[21/May/2023 03:28:30] "GET /static/assets/images/mainlogo.png HTTP/1.1" 200 35686
+Not Found: /favicon.ico
+[21/May/2023 03:28:30] "GET /favicon.ico HTTP/1.1" 404 2638
+[21/May/2023 06:03:36] code 400, message Bad request version ('À\x14À')
+[21/May/2023 06:03:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+[21/May/2023 06:58:51] "GET / HTTP/1.1" 200 18514
+[21/May/2023 07:11:05] code 400, message Bad request syntax ('MGLNDD_13.53.46.133_8000')
+[21/May/2023 07:11:05] "MGLNDD_13.53.46.133_8000" 400 -
+[21/May/2023 07:55:41] "GET / HTTP/1.1" 200 18514
+[21/May/2023 07:55:41,585] - Broken pipe from ('64.62.197.139', 17577)
+Not Found: /favicon.ico
+[21/May/2023 07:56:00] "GET /favicon.ico HTTP/1.1" 404 2638
+Not Found: /http:/api.ipify.org/
+[21/May/2023 07:56:04] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1818
+Not Found: /www.shadowserver.org:443
+[21/May/2023 07:56:07] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1827
